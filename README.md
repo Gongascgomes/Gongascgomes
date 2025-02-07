@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, sports and more recently coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ... whatever i can learn from!
-- 📫 How to reach me ... gcgomes2003@gmail.com
+- 📫 How to reach me ... goncalogomes.info@gmail.com
 
 <!---
 Gongascgomes/Gongascgomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
